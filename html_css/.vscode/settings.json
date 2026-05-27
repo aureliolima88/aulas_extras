@@ -1,0 +1,21 @@
+{
+   "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+    "python": "cls ; python -u",
+        
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "",
+    "files.autoSave": "afterDelay",
+    "github-enterprise.uri": "https://ddd.ghe.com",
+    "github.copilot.advanced": {   
+    "authProvider": "github-enterprise"
+    },
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "'Consolas', 'Courier New', monospace"
+}

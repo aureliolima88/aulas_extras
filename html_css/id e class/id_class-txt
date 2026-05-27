@@ -1,0 +1,15 @@
+Em HTML, id serve para identificar um elemento único (deve aparecer apenas uma vez por página), ideal para âncoras ou JavaScript. 
+O class é usado para agrupar múltiplos elementos que partilham do mesmo estilo ou comportamento, podendo ser reutilizado e combinado livremente.
+
+Principais Diferenças
+
+Atributo id:
+Unicidade: Cada id só pode existir uma vez por página HTML.Uso no CSS: Selecionado usando o caractere cerquilha/hashtag (#). Exemplo: #cabecalho.Uso no JavaScript: É excelente para manipulação direta de elementos específicos (document.getElementById()).
+
+Atributo class:
+Reutilização: Pode ser usado em vários elementos na mesma página.Múltiplas classes: Um elemento pode ter mais de uma classe, separadas por espaço.Uso no CSS: Selecionado com um ponto (.). Exemplo: .botao-azul.
+
+tags para estudar
+elementos html: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference/Elements
+
+um site é uma caixa dentro de outra caixa!!!
